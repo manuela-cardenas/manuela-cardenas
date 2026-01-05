@@ -7,7 +7,7 @@ I’m Manuela, a Colombian Master’s student in Development Economics in Paris,
 **Currently into:**
 - R for delightfully messy real-world data (ggplot2, dplyr, “is this causal? …maybe” kind of vibes.)
 - Okay with SQL, wrestling with Stata,  idealizing a near future where I also know Python
-- Anything agro-adjacent: land tenure drama, food systems, rural livelihoods, who eats and who doesn’t
+- Anything agro-adjacent: land tenure, food systems, rural livelihoods, who eats and who doesn’t...
 
 I have mixed feelings about the development world's obsession with “proof”™ — the kind that only counts if it shows up in a neat regression table. It’s useful, but it can also be a way to ignore work that actually changes lives. I’m interested in playing that game well enough to get funding, while keeping a social, systems-based perspective so the goal stays clear: shifting material conditions for the people who need it, not just making indicators look pretty.
 
