@@ -5,7 +5,7 @@ Hello :)
 I’m Manuela, a Colombian Master’s student in Development Economics in Paris, trying to make sense of how numbers, land, and power keep tripping over each other.
 
 **Currently into:**
-- R for delightfully messy real-world data (ggplot2, dplyr, “is this causal? …maybe” energy)
+- R for delightfully messy real-world data (ggplot2, dplyr, “is this causal? …maybe” kind of vibes.)
 - Okay with SQL, wrestling with Stata,  idealizing a near future where I also know Python
 - Anything agro-adjacent: land tenure drama, food systems, rural livelihoods, who eats and who doesn’t
 
