@@ -1,6 +1,7 @@
 ## About Me
 
 Hello :) 
+
 I’m Manuela, a Colombian Master’s student in Development Economics in Paris, trying to make sense of how numbers, land, and power keep tripping over each other.
 
 **Currently into:**
